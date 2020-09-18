@@ -31,7 +31,7 @@ Then execute
 $ pod install
 
 ```
-#### Configuration
+#### Config file
 
 Edit the file `config/Base.xcconfig`
 
