@@ -1,4 +1,4 @@
-# Paraswap Rockside iOS Showcase Application
+# Paraswap x Rockside iOS Showcase Application
 
 ## What is this application doing?
 This application is a demonstration of the integration of the Paraswap protocol with Rockside in a native iOS application.
