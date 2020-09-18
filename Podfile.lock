@@ -1,0 +1,135 @@
+PODS:
+  - BigInt (5.0.0)
+  - GenericJSON (2.0.1)
+  - JGProgressHUD (2.1)
+  - KeychainAccess (4.1.0)
+  - MaterialComponents/AnimationTiming (114.0.0)
+  - MaterialComponents/Availability (114.0.0)
+  - MaterialComponents/Buttons (114.0.0):
+    - MaterialComponents/Elevation
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Math
+    - MaterialComponents/Ripple
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/ShapeLibrary
+    - MaterialComponents/Shapes
+    - MaterialComponents/Typography
+    - MDFInternationalization
+    - MDFTextAccessibility
+  - MaterialComponents/Elevation (114.0.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/Ink (114.0.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/OverlayWindow (114.0.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Application
+  - MaterialComponents/Palettes (114.0.0)
+  - MaterialComponents/private/Application (114.0.0)
+  - MaterialComponents/private/Color (114.0.0):
+    - MaterialComponents/Availability
+  - MaterialComponents/private/KeyboardWatcher (114.0.0):
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Math (114.0.0)
+  - MaterialComponents/private/Overlay (114.0.0)
+  - MaterialComponents/Ripple (114.0.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/ShadowElevations (114.0.0)
+  - MaterialComponents/ShadowLayer (114.0.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/ShapeLibrary (114.0.0):
+    - MaterialComponents/private/Math
+    - MaterialComponents/Shapes
+  - MaterialComponents/Shapes (114.0.0):
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/Snackbar (114.0.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Availability
+    - MaterialComponents/Buttons
+    - MaterialComponents/Elevation
+    - MaterialComponents/OverlayWindow
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/KeyboardWatcher
+    - MaterialComponents/private/Math
+    - MaterialComponents/private/Overlay
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Typography
+  - MaterialComponents/TextFields (114.0.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Buttons
+    - MaterialComponents/Elevation
+    - MaterialComponents/Palettes
+    - MaterialComponents/private/Math
+    - MaterialComponents/Typography
+    - MDFInternationalization
+  - MaterialComponents/Typography (114.0.0):
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/Math
+    - MDFTextAccessibility
+  - MDFInternationalization (2.0.0)
+  - MDFTextAccessibility (2.0.0)
+  - Pageboy (3.6.1)
+  - secp256k1.swift (0.1.4)
+  - Starscream (3.1.1)
+  - Tabman (2.9.1):
+    - Pageboy (~> 3.6.0)
+  - TrezorCrypto (0.0.9)
+  - web3.swift (0.5.0):
+    - BigInt (~> 5.0.0)
+    - GenericJSON (~> 2.0)
+    - secp256k1.swift (~> 0.1)
+
+DEPENDENCIES:
+  - JGProgressHUD
+  - KeychainAccess (~> 4.1.0)
+  - MaterialComponents/Snackbar
+  - MaterialComponents/TextFields
+  - Starscream (~> 3.1.1)
+  - Tabman (~> 2.6)
+  - TrezorCrypto (~> 0.0.9)
+  - web3.swift (~> 0.5.0)
+
+SPEC REPOS:
+  trunk:
+    - BigInt
+    - GenericJSON
+    - JGProgressHUD
+    - KeychainAccess
+    - MaterialComponents
+    - MDFInternationalization
+    - MDFTextAccessibility
+    - Pageboy
+    - secp256k1.swift
+    - Starscream
+    - Tabman
+    - TrezorCrypto
+    - web3.swift
+
+SPEC CHECKSUMS:
+  BigInt: 74b4d88367b0e819d9f77393549226d36faeb0d8
+  GenericJSON: a6e74e2c457f8693caab08e0eafde7d97e6666de
+  JGProgressHUD: aa403e9a5b45cae98903c4600cccdd98c0c3ec90
+  KeychainAccess: 445e28864fe6d3458b41fa211bcdc39890e8bd5a
+  MaterialComponents: 82c900f70f609710c47a9872bc2d59ce08ca0b18
+  MDFInternationalization: 010097556d6b09d2c4ea38e0820ea6d37be6a314
+  MDFTextAccessibility: 85c09a1bd9c321f494348e632a25063bcda35a53
+  Pageboy: 29a2d474ad99404b4d77f325e0ab6d705930a4fb
+  secp256k1.swift: a7e7a214f6db6ce5db32cc6b2b45e5c4dd633634
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  Tabman: 085d89c65be9e883629bdaf5b1453a6397e57846
+  TrezorCrypto: bfeea47a052dca2c77d4a39e1e183865e52de14d
+  web3.swift: 8d26e319070e19f0e3ca692caafb0b28ff60e867
+
+PODFILE CHECKSUM: a8a0d7e6c590667124dbd53114236a0028f01afb
+
+COCOAPODS: 1.9.3
